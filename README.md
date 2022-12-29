@@ -121,9 +121,9 @@ If you want Component signal output through the Saturn A/V connector, you also n
 
 **Note:**
 
- \1. The **HDMI SLIDE SWITCH** much slide to “OFF” if you want to output RGBS/Component signal through the Saturn A/V connector
+ 1. The **HDMI SLIDE SWITCH** much slide to “OFF” if you want to output RGBS/Component signal through the Saturn A/V connector
 
-\2. The GBSC only output low resolution (240p/288p) RGBS signal through the Saturn A/V connector. 
+ 2. The GBSC only output low resolution (240p/288p) RGBS signal through the Saturn A/V connector. 
 
  
 
